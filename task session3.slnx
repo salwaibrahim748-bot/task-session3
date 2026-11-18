@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="task 4/task 4.csproj" Id="a8bf1a6c-a325-4b7f-9859-cfd5dfa79036" />
+  <Project Path="task session3/task1 session3.csproj" />
+  <Project Path="task2 session3/task2 session3.csproj" />
+  <Project Path="task3/task3.csproj" Id="1b527d5b-a8ea-47a7-bec5-a0da99ed1b3f" />
+</Solution>
